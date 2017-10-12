@@ -1,0 +1,5 @@
+[info]
+title=Linter for Inno Setup, using iscc
+desc=Linter for CudaLint, adds support for Inno Setup lexer, using ISCC.exe
+type=cudatext-plugin
+subdir=cuda_lint_innosetup
