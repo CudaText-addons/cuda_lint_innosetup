@@ -21,4 +21,4 @@ class Iscc(Linter):
     )
     multiline = True
     error_stream = util.STREAM_STDERR
-    line_col_base = (1, 1)
+    line_col_base = (0, 1)
